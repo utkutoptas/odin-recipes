@@ -1,0 +1,36 @@
+h1 {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    background-color: rgb(206, 147, 36);
+    text-align: center;
+    color: white;
+}
+
+h2 {
+    font-family: 'Trebuchet MS', sans-serif;
+    color: white;
+    background-color: violet;
+    text-align: center;
+}
+
+h3 {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    text-align: center;
+}
+
+ol,
+ul {
+    font-family:'Times New Roman', Times, serif;
+    text-align: center;
+}
+    
+p {
+    font-family: 'Times New Roman', Times, serif;
+}
+
+img {
+    width: 800px;
+    height: auto;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+}
